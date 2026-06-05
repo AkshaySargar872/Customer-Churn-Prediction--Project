@@ -1,9 +1,9 @@
-## Customer Churn Prediction
-# Project Overview
+# Customer Churn Prediction
+## Project Overview
 
 This project analyzes customer behavior and predicts customer churn using Machine Learning. The objective is to identify customers who are likely to discontinue services and help businesses improve customer retention.
 
-#Tools & Technologies
+##Tools & Technologies
 Python
 Pandas
 NumPy
@@ -31,7 +31,7 @@ Results
 
 Successfully identified key factors influencing customer churn and developed predictive models to classify high-risk customers for proactive retention strategies.
 
-# Project Structure
+## Project Structure
 data/
 notebooks/
 images/
